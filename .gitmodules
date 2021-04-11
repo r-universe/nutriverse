@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nipnTK"]
+	path = nipnTK
+	url = https://github.com/nutriverse/nipntk
+	shallow = true
+	registered = true
+[submodule "zscorer"]
+	path = zscorer
+	url = https://github.com/nutriverse/zscorer
+	shallow = true
+	registered = true
