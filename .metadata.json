@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nipnTK",
+    "oncran": true
+  },
+  {
+    "package": "zscorer",
+    "oncran": true
+  }
+]

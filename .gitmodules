@@ -8,10 +8,8 @@
 	url = https://github.com/nutriverse/nipntk
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/nutriverse/zscorer
 	shallow = true
 	registered = true
-	oncran = true
