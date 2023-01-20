@@ -1,10 +1,28 @@
 [
   {
+    "package": "zscorer",
+    "oncran": true
+  },
+  {
     "package": "nipnTK",
     "oncran": true
   },
   {
-    "package": "zscorer",
-    "oncran": true
+    "package": "squeacr"
+  },
+  {
+    "package": "sleacr"
+  },
+  {
+    "package": "anthrocheckr"
+  },
+  {
+    "package": "micronutr"
+  },
+  {
+    "package": "riycf"
+  },
+  {
+    "package": "intergrowth"
   }
 ]
