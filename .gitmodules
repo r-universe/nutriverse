@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/nutriverse/universe
 	branch = HEAD
-[submodule "zscorer"]
-	path = zscorer
-	url = https://github.com/nutriverse/zscorer
-[submodule "nipnTK"]
-	path = nipnTK
-	url = https://github.com/nutriverse/nipnTK
-[submodule "squeacr"]
-	path = squeacr
-	url = https://github.com/nutriverse/squeacr
-[submodule "sleacr"]
-	path = sleacr
-	url = https://github.com/nutriverse/sleacr
 [submodule "anthrocheckr"]
 	path = anthrocheckr
 	url = https://github.com/nutriverse/anthrocheckr
-[submodule "micronutr"]
-	path = micronutr
-	url = https://github.com/nutriverse/micronutr
-[submodule "riycf"]
-	path = riycf
-	url = https://github.com/nutriverse/riycf
 [submodule "intergrowth"]
 	path = intergrowth
 	url = https://github.com/nutriverse/intergrowth
+[submodule "micronutr"]
+	path = micronutr
+	url = https://github.com/nutriverse/micronutr
+[submodule "nipnTK"]
+	path = nipnTK
+	url = https://github.com/nutriverse/nipnTK
+[submodule "riycf"]
+	path = riycf
+	url = https://github.com/nutriverse/riycf
+[submodule "sleacr"]
+	path = sleacr
+	url = https://github.com/nutriverse/sleacr
+[submodule "squeacr"]
+	path = squeacr
+	url = https://github.com/nutriverse/squeacr
+[submodule "zscorer"]
+	path = zscorer
+	url = https://github.com/nutriverse/zscorer
