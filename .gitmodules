@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nutriverse/universe
+	url = https://github.com/nutriverse/nutriverse.r-universe.dev
 	branch = HEAD
 [submodule "anthrocheckr"]
 	path = anthrocheckr
