@@ -5,9 +5,6 @@
 [submodule "intergrowth"]
 	path = intergrowth
 	url = https://github.com/nutriverse/intergrowth
-[submodule "ipctools"]
-	path = ipctools
-	url = https://github.com/nutriverse/ipctools
 [submodule "micronutr"]
 	path = micronutr
 	url = https://github.com/nutriverse/micronutr
