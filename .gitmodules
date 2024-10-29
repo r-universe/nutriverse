@@ -8,9 +8,6 @@
 [submodule "micronutr"]
 	path = micronutr
 	url = https://github.com/nutriverse/micronutr
-[submodule "mwana"]
-	path = mwana
-	url = https://github.com/nutriverse/mwana
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/nutriverse/nipnTK
