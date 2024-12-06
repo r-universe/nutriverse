@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/nutriverse/nutriverse.r-universe.dev
 	branch = HEAD
-[submodule "intergrowth"]
-	path = intergrowth
-	url = https://github.com/nutriverse/intergrowth
+[submodule "dietry"]
+	path = dietry
+	url = https://github.com/nutriverse/dietry
 [submodule "micronutr"]
 	path = micronutr
 	url = https://github.com/nutriverse/micronutr
