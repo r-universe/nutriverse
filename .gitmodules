@@ -8,6 +8,9 @@
 [submodule "dietry"]
 	path = dietry
 	url = https://github.com/nutriverse/dietry
+[submodule "gnr"]
+	path = gnr
+	url = https://github.com/nutriverse/gnr
 [submodule "micronutr"]
 	path = micronutr
 	url = https://github.com/nutriverse/micronutr
